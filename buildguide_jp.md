@@ -88,3 +88,31 @@
 キーマップは以下の通りです
 
 ![Imgur](https://user-images.githubusercontent.com/52162386/135728469-81487bb0-bfba-498c-bfa6-fdbf870b8916.png)
+
+## キーマップの書き換え
+
+キーマップの書き換えにはRemapというWebソフトが利用できます。
+
+事前に当リポジトリ内のHex/Hypreon_via.jsonをダウンロードしておき、Chromeで[Remap](https://remap-keys.app/)にアクセスします。(RemapはChromeのみ対応)
+
+まず、"START REMAP FOR YOUR KEYBOARD"をクリックします。
+
+![Imgur](https://user-images.githubusercontent.com/52162386/137341065-9d0c722c-c16a-44c9-8467-a4234f6c1f7a.png)
+
+次の画面で出てきた"+ KEYBOARD"をクリックします。
+
+![Imgur](https://user-images.githubusercontent.com/52162386/137341075-fe141c2e-0332-4571-93b6-6ceaa1f77770.png)
+
+画面がポップアップするのでHypreonを選択し、"接続"をクリックします。
+
+![Imgur](https://user-images.githubusercontent.com/52162386/137341093-42bfa3a7-0566-4b35-84fc-2f8a550df4d4.png)
+
+RemapにHypreonのキーマップはマージされていないため、先程ダウンロードしたHypreon_via.jsonをドラックして読み込ませます。
+
+![Imgur](https://user-images.githubusercontent.com/52162386/137341098-4e8b92e0-4750-4b50-b65a-475bab70f2b4.png)
+
+キーマップ変更画面になるので好きなようにキーマップを変更します。
+
+![Imgur](https://user-images.githubusercontent.com/52162386/137341109-048773e9-e45e-4236-b8f6-c87cf541b49f.png)
+
+Remapの詳しい使い方については、"Remap 使い方"で検索すると出てくるのでそれを参考にしてください。
