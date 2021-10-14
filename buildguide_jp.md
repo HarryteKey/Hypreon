@@ -93,7 +93,7 @@
 
 キーマップの書き換えにはRemapというWebソフトが利用できます。
 
-事前に当リポジトリ内のHex/Hypreon_via.jsonをダウンロードしておき、Chromeで[Remap](https://remap-keys.app/)にアクセスします。(RemapはChromeのみ対応)
+事前に当リポジトリをクローンするか、Hex/Hypreon_via.jsonを[ダウンロード](Hex/Hypreon_via.json)(Rawボタンを押して右クリックで保存)しておき、Chromeで[Remap](https://remap-keys.app/)にアクセスします。(RemapはChromeのみ対応)
 
 まず、"START REMAP FOR YOUR KEYBOARD"をクリックします。
 
